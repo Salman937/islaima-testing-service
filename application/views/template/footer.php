@@ -39,27 +39,27 @@
     <!--footer end-->
 
     <!-- js placed at the end of the document so the pages load faster -->
-    <script src="js/jquery.js"></script>
-    <script src="js/jquery-migrate-1.2.1.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="js/hover-dropdown.js"></script>
-    <script defer src="js/jquery.flexslider.js"></script>
-    <script type="text/javascript" src="assets/bxslider/jquery.bxslider.js"></script>
+    <script src="public/js/jquery.js"></script>
+    <script src="public/js/jquery-migrate-1.2.1.min.js"></script>
+    <script src="public/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="public/js/hover-dropdown.js"></script>
+    <script defer src="public/js/jquery.flexslider.js"></script>
+    <script type="text/javascript" src="public/assets/bxslider/jquery.bxslider.js"></script>
 
-    <script type="text/javascript" src="js/jquery.parallax-1.1.3.js"></script>
+    <script type="text/javascript" src="public/js/jquery.parallax-1.1.3.js"></script>
 
-    <script src="js/jquery.easing.min.js"></script>
-    <script src="js/link-hover.js"></script>
+    <script src="public/js/jquery.easing.min.js"></script>
+    <script src="public/js/link-hover.js"></script>
 
-    <script src="assets/fancybox/source/jquery.fancybox.pack.js"></script>
+    <script src="public/assets/fancybox/source/jquery.fancybox.pack.js"></script>
 
-    <script type="text/javascript" src="assets/revolution_slider/rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
-    <script type="text/javascript" src="assets/revolution_slider/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+    <script type="text/javascript" src="public/assets/revolution_slider/rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
+    <script type="text/javascript" src="public/assets/revolution_slider/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
 
     <!--common script for all pages-->
-    <script src="js/common-scripts.js"></script>
+    <script src="public/js/common-scripts.js"></script>
 
-    <script src="js/revulation-slide.js"></script>
+    <script src="public/js/revulation-slide.js"></script>
 
 
   <script>
@@ -95,5 +95,4 @@
 
   </script>
 
-  </body>
-</html>
+ 
