@@ -53,7 +53,7 @@
                  <!-- 2nd slide  -->
                  <li data-transition="fade" data-slotamount="8" data-masterspeed="700" data-delay="9400" data-thumb="">
                      <!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
-                     <img src="public/img/banner/banner_bg.jpg" alt="">
+                     <img src="img/banner/banner_bg.jpg" alt="">
                      <div class="caption lft slide_title"
                           data-x="10"
                           data-y="125"
@@ -397,7 +397,7 @@
                 <h2 class="r-work">Recent Work</h2>
                 <ul class="bxslider">
                     <li>
-                        <div class="element item view view-tenth">
+                        <div class="element item view view-tenth" data-zlname="reverse-effect">
                             <img src="public/img/works/img1.jpg" alt="" />
                             <div class="mask">
                                 <a data-zl-popup="link" href="javascript:;">

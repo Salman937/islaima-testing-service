@@ -14,56 +14,61 @@ class Tab_controller extends CI_Controller
 
 public function index(){
 
-       $data['content'] = "template/home_content";
+       $data['content'] = "public/content";
 		$this->load->view('front_common_layout',$data);
 
 }
 public function about_mth(){
 
-       $data['content'] = "template/about_content";
+       $data['content'] = "public/about";
 		$this->load->view('front_common_layout',$data);
 
 }
 public function service_mth(){
-   
-       $data['content'] = "template/service_content";
+       $data['content'] = "public/services";
 		$this->load->view('front_common_layout',$data);
 
 }
 public function feature_mth(){
 
-       $data['content'] = "template/feature_content";
+       $data['content'] = "public/content";
+		$this->load->view('front_common_layout',$data);
+
+}
+public function typography_mth(){
+
+       $data['content'] = "public/typography";
 		$this->load->view('front_common_layout',$data);
 
 }
 
 public function portfolio_mth(){
 
-       $data['content'] = "template/portfolio_content";
+       $data['content'] = "public/portfolio";
 		$this->load->view('front_common_layout',$data);
 
 }
 public function price_mth(){
 
-       $data['content'] = "template/price_content";
+       $data['content'] = "public/price";
 		$this->load->view('front_common_layout',$data);
 
 }
 public function blog_mth(){
 
-       $data['content'] = "template/blog_content";
+       $data['content'] = "public/blog";
 		$this->load->view('front_common_layout',$data);
 
 }
 public function contact_mth(){
 
-       $data['content'] = "template/contact_content";
+       $data['content'] = "public/contact";
 		$this->load->view('front_common_layout',$data);
 
 }
 public function us_mth(){
 
-       $data['content'] = "template/us_content";
+       $data['content'] = "public/content";
 		$this->load->view('front_common_layout',$data);
 
 }
